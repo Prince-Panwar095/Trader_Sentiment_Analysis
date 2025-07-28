@@ -29,7 +29,10 @@ Analyze how trading behavior (profitability, risk, volume, leverage) aligns or d
 ## 📍 Notes
 - All code is in `notebook_1.ipynb` and intended to run on **Google Colab**.
 - Charts used in the report are saved in the `outputs/` directory.
-- Please update `<your_name>` in folder naming before submission.
+
 
 ## 🔗 Colab Link
-> _Please upload your notebook to Google Colab and share a **view-only link**._
+>  **view-only link**._(https://drive.google.com/file/d/1dpWwqGg9bYGEv9vpxu5CjVVBTK0FhFwn/view?usp=sharing)
+
+## 🔗 Github Link
+>   https://github.com/Prince-Panwar095/Trader_Sentiment_Analysis
